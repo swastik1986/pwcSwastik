@@ -1,0 +1,2 @@
+# pwcSwastik
+mavenWebProject_UnitTestIntegration
