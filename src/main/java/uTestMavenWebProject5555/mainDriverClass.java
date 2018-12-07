@@ -7,7 +7,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 public class mainDriverClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		DesiredCapabilities capabilities = DesiredCapabilities.internetExplorer();
 		capabilities.setCapability(InternetExplorerDriver.FORCE_CREATE_PROCESS, true);
 		capabilities.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS, true);
